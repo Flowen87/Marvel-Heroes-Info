@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Item List</title>
+<title>Uniques to Keep</title>
 <style>
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -66,7 +66,7 @@
 </style>
 </head>
 <body>
-<h1>Item List</h1>
+<h1>Uniques to Keep</h1>
 <div class="list">
   <a class="item-row" href="https://itembase.mhbugle.com/item/116/" target="_blank" rel="noopener"><img src="https://itembase.mhbugle.com/img/items/116.png"><span>AIM Space Corps Zero Gravity Boots</span></a>
   <a class="item-row" href="https://itembase.mhbugle.com/item/123/" target="_blank" rel="noopener"><img src="https://itembase.mhbugle.com/img/items/123.png"><span>Anti-Metal Ammunition</span></a>
